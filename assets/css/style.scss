@@ -1,43 +1,35 @@
----
----
+/* Hero section */
+.hero {
+  margin: 2.5rem 0 2rem 0;
+}
+.hero h1 {
+  font-size: 2.4rem;
+  margin-bottom: 0.4rem;
+}
+.hero .lead {
+  font-size: 1.2rem;
+  max-width: 800px;
+  color: #333;
+}
+.hero-links {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+}
 
-@import "minima";
-
-/* Layout: pagina più “paper-like” */
-.page-content .wrapper { max-width: 980px; }
-.site-header { border-top: 0; }
-.site-title { font-weight: 600; letter-spacing: 0.2px; }
-
-/* Tipografia */
-body { font-size: 17px; line-height: 1.65; }
-h1, h2, h3 { letter-spacing: -0.2px; }
-h2 { margin-top: 2.0rem; }
-
-/* Link più sobri */
-a { text-decoration-thickness: 1px; text-underline-offset: 2px; }
-
-/* Box “callout” minimal */
-.callout {
-  padding: 14px 16px;
-  border: 1px solid #e5e5e5;
-  border-radius: 10px;
-  margin: 18px 0;
+/* KPI strip */
+.kpi {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 2rem 0 2.5rem 0;
+}
+.kpi div {
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  padding: 12px;
+  text-align: center;
   background: #fafafa;
 }
-
-/* Griglia semplice per card */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 14px;
+.kpi strong {
+  font-size: 1.4rem;
 }
-.card {
-  border: 1px solid #e5e5e5;
-  border-radius: 12px;
-  padding: 14px 14px;
-  background: #fff;
-}
-.card h3 { margin-top: 0; font-size: 1.05rem; }
-
-/* Responsive */
-@media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
