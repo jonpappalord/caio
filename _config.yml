@@ -1,0 +1,13 @@
+title: CAIO
+description: City–AI Coevolution
+theme: minima
+
+url: "https://jonpappalord.github.io"
+baseurl: "/caio"
+
+header_pages:
+  - about.md
+  - people.md
+  - publications.md
+  - news.md
+  - contact.md
