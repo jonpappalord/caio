@@ -2,4 +2,7 @@
 title: Contact
 ---
 
-For inquiries: **name.surname@istituzione.it**
+For scientific inquiries and collaborations:
+
+- **Luca Pappalardo** — ISTI-CNR, Pisa  
+- Email: luca.pappalardo@isti.cnr.it :contentReference[oaicite:30]{index=30}
