@@ -8,7 +8,7 @@ title: CAIO
 </div>
 
 ## What is City–AI Coevolution?
-AI-driven recommendations influence mobility and urban dynamics; individuals’ choices generate the data that retrain recommenders, which then steer future choices—creating a feedback loop that can amplify both benefits and unintended consequences for cities. :contentReference[oaicite:1]{index=1}
+AI-driven recommendations influence mobility and urban dynamics; individuals’ choices generate the data that retrain recommenders, which then steer future choices—creating a feedback loop that can amplify both benefits and unintended consequences for cities.
 
 ## Objectives
 <div class="grid">
@@ -27,7 +27,7 @@ AI-driven recommendations influence mobility and urban dynamics; individuals’ 
 </div>
 
 ## Case studies
-CAIO grounds its research in four domains: (i) navigation services, (ii) ride-hailing/sharing, (iii) house renting platforms, and (iv) location-based recommendations (e.g., points of interest). :contentReference[oaicite:2]{index=2}
+CAIO grounds its research in four domains: (i) navigation services, (ii) ride-hailing/sharing, (iii) house renting platforms, and (iv) location-based recommendations (e.g., points of interest). 
 
 ## Updates
 See <a href="news.md">News</a>.
