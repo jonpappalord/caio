@@ -2,7 +2,13 @@
 title: Publications
 ---
 
-Selected publications will be listed here.
+## Selected publications
+- **2025** — *Human-AI coevolution.* *Artificial Intelligence* (link)
+- **2026** — *(TBD)*
 
-- 2026 — Paper title (link)  
-- 2027 — Paper title (link)
+## Preprints
+- *(TBD)*
+
+## Software & data
+- GitHub repository (link)
+- Dataset (link)
