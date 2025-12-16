@@ -3,31 +3,42 @@ layout: home
 title: CAIO
 ---
 
-<div class="callout">
-<strong>CAIO</strong> (City–AI Coevolution) studies how AI-driven services—navigation, ride-hailing, house renting, and location-based recommenders—co-adapt with urban environments through feedback loops.
+<div class="hero">
+  <h1>CAIO</h1>
+  <p class="lead">
+    City–AI Coevolution: understanding, modelling, and governing
+    feedback loops between AI-driven services and urban dynamics.
+  </p>
+  <p class="hero-links">
+    <a href="research.md">Research</a> ·
+    <a href="case-studies.md">Case studies</a> ·
+    <a href="impact.md">Impact</a>
+  </p>
 </div>
 
-## What is City–AI Coevolution?
-AI-driven recommendations influence mobility and urban dynamics; individuals’ choices generate the data that retrain recommenders, which then steer future choices—creating a feedback loop that can amplify both benefits and unintended consequences for cities.
+<div class="kpi">
+  <div><strong>60</strong><br/>months</div>
+  <div><strong>5</strong><br/>work packages</div>
+  <div><strong>4</strong><br/>case studies</div>
+</div>
 
-## Objectives
+## Research pillars
 <div class="grid">
   <div class="card">
     <h3>Understand</h3>
-    <p>Measure short-, medium-, and long-term impacts of AI-driven recommenders on mobility, sustainability, and inequality, and their interplay with urban policies.</p>
+    <p>Measure the short- and long-term impacts of AI-driven recommenders on mobility, sustainability, and inequality.</p>
   </div>
   <div class="card">
     <h3>Model</h3>
-    <p>Develop mechanistic models of the city–AI feedback loop by extending established mobility and segregation frameworks to include AI-driven recommendations.</p>
+    <p>Develop mechanistic models of city–AI feedback loops linking individual choices to collective outcomes.</p>
   </div>
   <div class="card">
     <h3>Govern</h3>
-    <p>Design complexity-informed recommenders that balance individual goals with collective urban objectives within an ethical and transparent framework.</p>
+    <p>Design complexity-informed AI recommenders aligned with collective urban goals.</p>
   </div>
 </div>
 
-## Case studies
-CAIO grounds its research in four domains: (i) navigation services, (ii) ride-hailing/sharing, (iii) house renting platforms, and (iv) location-based recommendations (e.g., points of interest). 
-
-## Updates
-See <a href="news.md">News</a>.
+## Project timeline
+- **Year 1** — Measurement framework and data collection  
+- **Years 2–3** — Empirical studies and simulations  
+- **Years 3–4** — Modelling and r
