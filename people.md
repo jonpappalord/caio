@@ -6,7 +6,7 @@ title: People
 
 <img src="{{ '/assets/img/foto_luca_pappalardo.jpg' | relative_url }}" 
      alt="Luca Pappalardo"
-     style="width:180px; border-radius:12px; margin-bottom:10px;">
+     style="width:250px; border-radius:12px; margin-bottom:10px;">
 
 **Luca Pappalardo**  
 ISTI–CNR · Scuola Normale Superiore
