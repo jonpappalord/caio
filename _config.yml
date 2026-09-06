@@ -7,10 +7,7 @@ baseurl: "/caio"
 
 header_pages:
   - about.md
-  - research.md
-  - case-studies.md
-  - impact.md
   - people.md
   - publications.md
-  - news.md
+  - press-coverage.md
   - contact.md
