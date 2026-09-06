@@ -16,7 +16,6 @@ description: Research outputs from the CAIO project.
   <p class="publication-authors">
     Giuliano Cornacchia, Mirco Nanni, Dino Pedreschi, Luca Pappalardo
   </p>
-
   <p class="publication-venue">
     <em>Nature Communications</em> <strong>17</strong>, 8548 (2026)
   </p>
