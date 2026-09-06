@@ -2,9 +2,10 @@
 title: Publications
 description: Research outputs from the CAIO project.
 ---
-## Selected publications
 
-- **2025** — *Human–AI coevolution.* *Artificial Intelligence*.
+## Scientific articles
+
+- **2026** — G Cornacchia, M Nanni, D Pedreschi, L Pappalardo, *The traffic concentration effects of urban navigation services.* Nature Communications 17, 8548. https://doi.org/10.1038/s41467-026-75254-8
 
 ## Preprints
 
