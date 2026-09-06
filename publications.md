@@ -3,7 +3,6 @@ layout: default
 title: Publications
 description: Research outputs from the CAIO project.
 ---
-## Scientific articles
 
 <article class="publication-item">
   <h2 class="publication-title">
@@ -22,10 +21,19 @@ description: Research outputs from the CAIO project.
   </p>
 </article>
 
-## Preprints
-
-<div class="empty-state">New CAIO preprints will be listed here as they become available.</div>
-
-## Software & data
-
-Open-source code and datasets produced by the project will be released here in line with FAIR principles.
+<article class="publication-item">
+  <h2 class="publication-title">
+    <a href="https://doi.org/10.1145/3828663" target="_blank" rel="noopener">
+      Learning by Surprise: Adaptive Mitigation of Model Collapse in Large Language Models
+    </a>
+  </h2>
+  <p class="publication-authors">
+    Daniele Gambetta, Gizem Gezici, Fosca Giannotti, Dino Pedreschi, Alistair Knott, and Luca Pappalardo
+  </p>
+  <p class="publication-venue">
+    <em>ACM Transactions on Intelligent Systems and Technology</em>, (2026)
+  </p>
+  <p class="publication-description">
+    This study provides a model-centric account of collapse in LLMs repeatedly trained on AI-generated content, linking it to concentrated token probabilities, declining common-sense reasoning, and low-perplexity training data. It proposes a perplexity-based filtering strategy that mitigates collapse without requiring access to human-authored data.
+  </p>
+</article>
