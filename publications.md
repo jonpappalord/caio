@@ -20,7 +20,7 @@ description: Research outputs from the CAIO project.
     This study investigates how the widespread adoption of urban navigation services can concentrate traffic on a limited number of roads, affecting congestion, emissions, and the resilience of urban mobility systems.
   </p>
 </article>
-
+<hr>
 <article class="publication-item">
   <h2 class="publication-title">
     <a href="https://doi.org/10.1145/3828663" target="_blank" rel="noopener">
