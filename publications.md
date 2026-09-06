@@ -5,21 +5,21 @@ description: Research outputs from the CAIO project.
 ---
 ## Scientific articles
 
-<article class="publication">
-  
-  <h3 class="publication-title">
-    <a href="https://doi.org/10.1038/s41467-026-75254-8">
+<article class="publication-item">
+  <h2 class="publication-title">
+    <a href="https://doi.org/10.1038/s41467-026-75254-8" target="_blank" rel="noopener">
       The traffic concentration effects of urban navigation services
     </a>
-  </h3>
-
+  </h2>
   <p class="publication-authors">
     Giuliano Cornacchia, Mirco Nanni, Dino Pedreschi, Luca Pappalardo
   </p>
   <p class="publication-venue">
     <em>Nature Communications</em> <strong>17</strong>, 8548 (2026)
   </p>
-  
+  <p class="publication-description">
+    This study investigates how the widespread adoption of urban navigation services can concentrate traffic on a limited number of roads, affecting congestion, emissions, and the resilience of urban mobility systems.
+  </p>
 </article>
 
 ## Preprints
