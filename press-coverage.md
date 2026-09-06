@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Press Coverage
 description: Media coverage and public engagement from the CAIO project.
 ---

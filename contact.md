@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Contact
 description: Contact CAIO for scientific inquiries, collaborations and media requests.
 ---

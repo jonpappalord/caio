@@ -1,4 +1,5 @@
 ---
+layout: default
 title: People
 description: Meet the researchers behind CAIO.
 ---
