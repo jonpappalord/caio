@@ -1,10 +1,12 @@
 <footer class="site-footer">
-  <div class="wrapper" style="font-size: 0.95em;">
-    <p style="margin:0.2rem 0;">
-      © {{ site.time | date: "%Y" }} CAIO — City–AI Coevolution
-    </p>
-    <p style="margin:0.2rem 0; color:#666;">
-      Funded by the Italian Ministry (FIS). Hosted at CNR. Collaborations: SNS, University of Pisa.
-    </p>
+  <div class="shell footer-grid">
+    <div>
+      <img class="footer-logo" src="{{ '/assets/img/logo_CAIO_animated.svg' | relative_url }}" alt="CAIO">
+      <p>Researching how cities and artificial intelligence shape one another.</p>
+    </div>
+    <div class="footer-meta">
+      <p>Hosted at <strong>ISTI–CNR</strong>, Pisa</p>
+      <p>© {{ site.time | date: "%Y" }} CAIO</p>
+    </div>
   </div>
 </footer>
