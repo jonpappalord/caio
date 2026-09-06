@@ -1,7 +1,3 @@
----
-title: Publications
-description: Research outputs from the CAIO project.
----
 
 ## Scientific articles
 
