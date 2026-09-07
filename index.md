@@ -5,7 +5,8 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 ---
 <section class="hero">
   <div><p class="eyebrow">City–AI Coevolution</p><h1>Understanding cities shaped by AI.</h1>
-  <p class="lead">CAIO is a research project funded by the Italian Ministry of Research (MUR) under the <strong>Fondo Italiano per la Scienza (FIS)</strong> programme. It studies how algorithmic recommendations and urban life co-evolve—and designs AI systems that work for people, cities and the public good.</p>
+  <p class="lead">CAIO is is a five-year research project (2026–2031) funded with €1.4 million by the <i>Italian Ministry of Research (MUR)</i> through a <a href="https://fis-submission.mur.gov.it/">Fondo Italiano per la Scienza (FIS)</a> <strong>Consolidator Grant</strong> programme.</p> 
+    <p>It studies how algorithmic recommendations and urban life co-evolve, and designs AI systems that work for people, cities, and the public good.</p>
   </div>
 </section>
 <section class="section-band">
