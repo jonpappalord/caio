@@ -5,7 +5,7 @@ description: Meet the researchers behind CAIO.
 ---
 <section class="profile">
   <img src="{{ '/assets/img/foto_luca_pappalardo.jpg' | relative_url }}" alt="Luca Pappalardo">
-  <div><p class="eyebrow">Principal Investigator</p><h2>Luca Pappalardo</h2><p class="role">ISTI–CNR · Scuola Normale Superiore</p><p>Project leadership and scientific coordination.</p></div>
+  <div><p class="eyebrow">Principal Investigator</p><h2>Luca Pappalardo</h2><p class="role">Senior Researcher at ISTI–CNR</p><p>Project leadership and scientific coordination.</p></div>
 </section>
 ## Project team
 
