@@ -25,7 +25,8 @@ description: Media coverage and public engagement from the CAIO project.
   </p>
 
   <p class="press-description">
-    An article exploring how the widespread use of navigation services can concentrate traffic and increase congestion on urban roads.
+    Scientific article it refers to: 
+    <br/>Cornacchia et al., <a href="https://www.nature.com/articles/s41467-026-75254-8">The traffic concentration effects of urban navigation services</a>, Nature Communications 17, 8548 (2026)
   </p>
 </article>
 
@@ -55,6 +56,7 @@ description: Media coverage and public engagement from the CAIO project.
   </p>
 
   <p class="press-description">
-    An article exploring how the widespread use of navigation services can concentrate traffic and increase congestion on urban roads.
+    Scientific article it refers to: 
+    <br/>Cornacchia et al., <a href="https://www.nature.com/articles/s41467-026-75254-8">The traffic concentration effects of urban navigation services</a>, Nature Communications 17, 8548 (2026)
   </p>
 </article>
