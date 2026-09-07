@@ -19,7 +19,9 @@ description: Media coverage and public engagement from the CAIO project.
   </h2>
 
   <p class="press-byline">
-    By Marco Gasperetti
+    By <a href="https://it.wikipedia.org/wiki/Marco_Gasperetti"
+          target="_blank"
+          rel="noopener">Marco Gasperetti</a>
     <span aria-hidden="true">·</span>
     <time datetime="2026-09-03">3 September 2026</time>
   </p>
