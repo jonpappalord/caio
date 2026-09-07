@@ -74,8 +74,9 @@ li+li { margin-top:.45rem; }
 .contact-card h2 { margin-top:0; }
 .site-footer { color:#eae4de; background:var(--brown); }
 .funding-strip { padding:32px 0; color:var(--ink); background:var(--white); border-top:1px solid var(--line); }
-.funding-content { display:flex; align-items:center; justify-content:space-between; gap:40px; }
-.funding-label { margin:0; color:var(--muted); font-size:.72rem; font-weight:750; letter-spacing:.14em; text-transform:uppercase; }
+.funding-content { display:flex; align-items:flex-end; justify-content:space-between; gap:56px; }
+.institutional-group { display:flex; align-items:center; gap:28px; }
+.site-footer .funding-label { margin:0; color:var(--muted); font-size:.72rem; font-weight:750; letter-spacing:.14em; text-transform:uppercase; white-space:nowrap; }
 .funding-logos { display:flex; align-items:center; justify-content:flex-end; gap:38px; }
 .funding-logo { display:block; width:110px; max-width:110px; height:auto; object-fit:contain; }
 .footer-grid { display:flex; justify-content:space-between; align-items:end; gap:40px; padding-top:52px; padding-bottom:52px; }
@@ -87,7 +88,7 @@ li+li { margin-top:.45rem; }
   .site-nav { display:none; position:absolute; top:74px; left:0; right:0; padding:18px 24px 28px; flex-direction:column; align-items:flex-start; gap:16px; background:var(--paper); border-bottom:1px solid var(--line); }
   .site-nav.open { display:flex; } .hero { grid-template-columns:1fr; gap:38px; min-height:auto; padding:30px 0 70px; } .hero-logo-card { max-width:460px; padding:42px 32px; }
   .section-intro { display:block; } .section-intro p { margin-top:14px; } .grid { grid-template-columns:1fr; } .profile { grid-template-columns:1fr; } .profile img { width:210px; }
-  .funding-content { align-items:flex-start; flex-direction:column; gap:20px; } .funding-logos { width:100%; justify-content:flex-start; gap:24px; }
+  .funding-content { align-items:flex-start; flex-direction:column; gap:28px; } .institutional-group { width:100%; align-items:flex-start; flex-direction:column; gap:12px; } .funding-logos { width:100%; justify-content:flex-start; gap:24px; }
   .footer-grid { display:block; } .footer-meta { margin-top:30px; text-align:left; }
 }
 @media(prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto!important; animation-duration:.01ms!important; animation-iteration-count:1!important; transition-duration:.01ms!important; } }
