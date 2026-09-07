@@ -15,17 +15,9 @@ description: Meet the researchers behind CAIO.
        height="260"
        alt="Dino Pedreschi">
   <div>
-    <p class="eyebrow">Professor of Computer Science</p>
+    <p class="eyebrow">Collaborator of the PI</p>
     <h2>Dino Pedreschi</h2>
-    <p class="role">University of Pisa</p>
+    <p class="role">Full Professor of Computer Science, University of Pisa</p>
     <p>His research focuses on human-centred AI, data mining and computational social science, with particular attention to the societal impact of artificial intelligence.</p>
   </div>
 </section>
-
-## Core team
-
-CAIO will recruit four researchers with complementary expertise in measurement and experiments, mechanistic modelling, and complexity-informed recommender design and evaluation.
-
-## Advisory Board
-
-An international Scientific Advisory Board will provide strategic guidance and review CAIO’s research activities.
