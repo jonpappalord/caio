@@ -5,23 +5,22 @@ description: Meet the researchers behind CAIO.
 ---
 <section class="profile">
   <img src="{{ '/assets/img/foto_luca_pappalardo.jpg' | relative_url }}" alt="Luca Pappalardo">
-  <div><p class="eyebrow">Principal Investigator</p><h2>Luca Pappalardo</h2><p class="role">Senior Researcher at ISTI–CNR, Associate Professor at Scuola Normale Superiore</p><p>Project leadership and scientific coordination.</p></div>
+  <div><p class="eyebrow">Principal Investigator</p><h2>Luca Pappalardo</h2><p class="role">ISTI–CNR · Scuola Normale Superiore</p><p>Project leadership and scientific coordination.</p></div>
 </section>
 ## Project team
 
-<div class="people-grid">
-  <article class="person-card">
-    <img class="person-photo"
-         src="{{ '/assets/img/dino_pedreschi.jpg' | relative_url }}"
-         alt="Dino Pedreschi">
-    <div class="person-info">
-      <h3>Dino Pedreschi</h3>
-      <p class="person-title">Professor of Computer Science</p>
-      <p class="person-institution">University of Pisa</p>
-      <p class="person-bio">His research focuses on human-centred AI, data mining and computational social science, with particular attention to the societal impact of artificial intelligence.</p>
-    </div>
-  </article>
-</div>
+<section class="profile team-profile">
+  <img src="{{ '/assets/img/dino_pedreschi.jpg' | relative_url }}"
+       width="260"
+       height="260"
+       alt="Dino Pedreschi">
+  <div>
+    <p class="eyebrow">Professor of Computer Science</p>
+    <h2>Dino Pedreschi</h2>
+    <p class="role">University of Pisa</p>
+    <p>His research focuses on human-centred AI, data mining and computational social science, with particular attention to the societal impact of artificial intelligence.</p>
+  </div>
+</section>
 
 ## Core team
 
