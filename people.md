@@ -31,6 +31,6 @@ description: Meet the researchers behind CAIO.
     <p class="eyebrow">Visiting Professor</p>
     <h2>Kamil Smolak</h2>
     <p class="role">Assistant Professor of Geodesy and Geoinformatics, Wroclaw University of Environmental and Life Sciences, Poland</p>
-    <p>His research focuses on the impact of urban recommender systems on human mobility.</p>
+    <p>Kamil Smolak is conducting a NAWA Bekker Fellowship at ISTI-CNR. His research focuses on understanding human mobility using large-scale digital data, with particular interest in biases and representativeness of mobility datasets, data processing methods, and the development of robust approaches for analysing and modelling human movement.</p>
   </div>
 </section>
