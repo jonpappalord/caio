@@ -1,18 +1,30 @@
 <footer class="site-footer">
   <div class="funding-strip">
     <div class="shell funding-content">
-      <p class="funding-label">Funded by</p>
-      <div class="funding-logos">
-        <img class="funding-logo funding-logo-fis"
-             src="{{ '/assets/img/logo-fis.png' | relative_url }}"
-             width="110"
-             style="width:110px; height:auto;"
-             alt="FIS — Fondo Italiano per la Scienza">
-        <img class="funding-logo funding-logo-mur"
-             src="{{ '/assets/img/logo-mur.jpg' | relative_url }}"
-             width="110"
-             style="width:110px; height:auto;"
-             alt="Ministero dell’Università e della Ricerca">
+      <div class="institutional-group">
+        <p class="funding-label">Hosted by</p>
+        <div class="funding-logos">
+          <img class="funding-logo"
+               src="{{ '/assets/img/logo-cnr.png' | relative_url }}"
+               width="110"
+               style="width:110px; height:auto;"
+               alt="Consiglio Nazionale delle Ricerche">
+        </div>
+      </div>
+      <div class="institutional-group">
+        <p class="funding-label">Funded by</p>
+        <div class="funding-logos">
+          <img class="funding-logo"
+               src="{{ '/assets/img/logo-fis.png' | relative_url }}"
+               width="110"
+               style="width:110px; height:auto;"
+               alt="FIS — Fondo Italiano per la Scienza">
+          <img class="funding-logo"
+               src="{{ '/assets/img/logo-mur.jpg' | relative_url }}"
+               width="110"
+               style="width:110px; height:auto;"
+               alt="Ministero dell’Università e della Ricerca">
+        </div>
       </div>
     </div>
   </div>
@@ -22,7 +34,7 @@
       <p>Researching how cities and artificial intelligence shape one another.</p>
     </div>
     <div class="footer-meta">
-      <p>Hosted at <strong>ISTI–CNR</strong>, Pisa</p>
+      <p>Based at <strong>ISTI–CNR</strong>, Pisa</p>
       <p>© {{ site.time | date: "%Y" }} CAIO</p>
     </div>
   </div>
