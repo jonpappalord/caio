@@ -21,3 +21,16 @@ description: Meet the researchers behind CAIO.
     <p>His research focuses on human-centred AI, data mining and computational social science, with particular attention to the societal impact of artificial intelligence.</p>
   </div>
 </section>
+
+<section class="profile team-profile">
+  <img src="{{ '/assets/img/kamil_smolak.jpeg' | relative_url }}"
+       width="260"
+       height="260"
+       alt="Kamil Smolak">
+  <div>
+    <p class="eyebrow">Visiting Professor</p>
+    <h2>Kamil Smolak</h2>
+    <p class="role">Assistant Professor of Geodesy and Geoinformatics, Wroclaw University of Environmental and Life Sciences</p>
+    <p>His research focuses on the impact of urban recommender systems on human mobility.</p>
+  </div>
+</section>
