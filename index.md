@@ -10,19 +10,19 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 </section>
 
 <section class="project-description">
-  <h2 class="project-questions">
+  <h3 class="project-questions">
     How do AI-driven recommendations reshape cities, and how do cities
     reshape the algorithms that influence them?
-  </h2>
+  </h3>
 
-  <h2 class="project-questions">
+  <h3 class="project-questions">
     When do systems optimized for individual convenience produce collective
     harms such as congestion, emissions, segregation, or inequality?
-  </h2>
+  </h3>
 
-  <h2 class="project-questions">
+  <h3 class="project-questions">
     How can they be designed to promote the public good instead?
-  </h2>
+  </h3>
 
   <div class="project-answer">
     <p>
