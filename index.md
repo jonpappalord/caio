@@ -10,6 +10,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 </section>
 
 <section class="project-description">
+  <div>
   <h3>How do AI-driven recommendations reshape cities, and how do cities
     reshape the algorithms that influence them?</h3>
     <h3>When do systems optimized for individual convenience produce collective
@@ -24,6 +25,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
       effects of AI and to develop complexity-informed recommender systems that
       balance individual preferences with collective goals.
     </p>
+    </div>
 </section>
 
 <section class="section-band">
