@@ -8,10 +8,29 @@
       <span></span><span></span><span></span><span class="sr-only">Toggle navigation</span>
     </button>
     <nav id="primary-navigation" class="site-nav" aria-label="Primary navigation">
-      {% for path in site.header_pages %}{% assign nav_page = site.pages | where: "path", path | first %}{% if nav_page %}
-        <a href="{{ nav_page.url | relative_url }}"{% if page.url == nav_page.url %} class="active" aria-current="page"{% endif %}>{{ nav_page.title }}</a>
-      {% endif %}{% endfor %}
-    </nav>
+  {% for path in site.header_pages %}
+    {% assign nav_page = site.pages | where: "path", path | first %}
+
+    {% if nav_page %}
+      {% assign nav_url = nav_page.url %}
+      {% assign is_active = false %}
+
+      {% if nav_page.title == "About" %}
+        {% assign nav_url = "/" %}
+        {% if page.url == "/" %}
+          {% assign is_active = true %}
+        {% endif %}
+      {% elsif page.url == nav_page.url %}
+        {% assign is_active = true %}
+      {% endif %}
+
+      <a href="{{ nav_url | relative_url }}"
+         {% if is_active %}class="active" aria-current="page"{% endif %}>
+        {{ nav_page.title }}
+      </a>
+    {% endif %}
+  {% endfor %}
+</nav>
   </div>
 </header>
 <script>
