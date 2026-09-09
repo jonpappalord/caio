@@ -15,20 +15,20 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     reshape the algorithms that influence them?
   </h2>
 
-  <p class="project-subquestions">
+  <h2 class="project-questions">
     When do systems optimized for individual convenience produce collective
     harms such as congestion, emissions, segregation, or inequality?
+  </h2>
+
+  <h2 class="project-questions">
     How can they be designed to promote the public good instead?
-  </p>
+  </h2>
 
   <div class="project-answer">
     <p>
       CAIO addresses these questions by studying the <em>feedback loops</em>
       between people, algorithms, and urban environments across navigation,
       ride-hailing, housing, and location-based services.
-    </p>
-
-    <p>
       Combining large-scale data, controlled experiments, mathematical models,
       and simulations, the project aims to understand and predict the urban
       effects of AI and to develop complexity-informed recommender systems that
