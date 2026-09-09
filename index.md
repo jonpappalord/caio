@@ -6,11 +6,37 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 <section class="hero">
   <div><p class="eyebrow">City–AI Coevolution</p><h1>Understanding cities shaped by AI.</h1>
   <p class="lead">CAIO (City-AI Coevolution) is a five-year research project (2026–2031) funded with €1.4 million by the <i>Italian Ministry of University and Research (MUR)</i> through a <a href="https://fis-submission.mur.gov.it/">Fondo Italiano per la Scienza (FIS)</a> <strong>Consolidator Grant</strong>.</p>
-    <p><strong>How do AI-driven recommendations reshape cities, and how do cities reshape the algorithms that influence them? When do systems optimized for individual convenience produce collective harms such as congestion, emissions, segregation, or inequality? How can they be designed to promote the public good instead?</strong></p> 
-    <p>CAIO addresses these questions by studying the <i>feedback loops</i> between people, algorithms, and urban environments across navigation, ride-hailing, housing, and location-based services. Combining large-scale data, controlled experiments, mathematical models, and simulations, the project aims to understand and predict the urban effects of AI and to develop complexity-informed recommender systems that balance individual preferences with collective goals.
-</p>
   </div>
 </section>
+
+<section class="project-description">
+  <h2 class="project-questions">
+    How do AI-driven recommendations reshape cities, and how do cities
+    reshape the algorithms that influence them?
+  </h2>
+
+  <p class="project-subquestions">
+    When do systems optimized for individual convenience produce collective
+    harms such as congestion, emissions, segregation, or inequality?
+    How can they be designed to promote the public good instead?
+  </p>
+
+  <div class="project-answer">
+    <p>
+      CAIO addresses these questions by studying the <em>feedback loops</em>
+      between people, algorithms, and urban environments across navigation,
+      ride-hailing, housing, and location-based services.
+    </p>
+
+    <p>
+      Combining large-scale data, controlled experiments, mathematical models,
+      and simulations, the project aims to understand and predict the urban
+      effects of AI and to develop complexity-informed recommender systems that
+      balance individual preferences with collective goals.
+    </p>
+  </div>
+</section>
+
 <section class="section-band">
   <div class="news-heading">
     <div><p class="eyebrow">Latest updates</p><h2>News</h2></div>
