@@ -31,10 +31,5 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
       <p>CAIO launches with a €1.4 million FIS Consolidator Grant to study city–AI coevolution over five years.</p>
     </li>
   </ol>
-
-  <div class="news-links">
-    <a href="{{ '/publications/' | relative_url }}">All publications →</a>
-    <a href="{{ '/press-coverage/' | relative_url }}">Press coverage →</a>
-  </div>
 </section>
 <section class="statement"><p>Tomorrow’s cities will not be shaped by people or algorithms alone, but by the feedback loops between them.</p></section>
