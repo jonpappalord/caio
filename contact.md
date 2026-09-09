@@ -10,7 +10,7 @@ description: Contact CAIO for scientific inquiries, collaborations and media req
   <p><a class="button" href="mailto:luca.pappalardo@cnr.it">luca.pappalardo@cnr.it</a></p>
 
   <div class="social-links" aria-label="Social profiles">
-    <p></p><a href="https://www.linkedin.com/in/luca-pappalardo-a2761344/" target="_blank" rel="noopener" aria-label="Luca Pappalardo on LinkedIn">
+    <p><a href="https://www.linkedin.com/in/luca-pappalardo-a2761344/" target="_blank" rel="noopener" aria-label="Luca Pappalardo on LinkedIn">
       <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true" style="width:16px;height:16px;max-width:16px"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V8.98h3.42v1.57h.05c.48-.9 1.64-1.85 3.37-1.85 3.61 0 4.27 2.37 4.27 5.46v6.29ZM5.32 7.41a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12Zm1.78 13.04H3.54V8.98H7.1v11.47Z"/></svg>
       LinkedIn
     </a></p>
