@@ -10,23 +10,14 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 </section>
 
 <section class="project-description">
-  <h3 class="project-questions">
-    How do AI-driven recommendations reshape cities, and how do cities
+  <p><strong>How do AI-driven recommendations reshape cities, and how do cities
     reshape the algorithms that influence them?
-  </h3>
-
-  <h3 class="project-questions">
     When do systems optimized for individual convenience produce collective
     harms such as congestion, emissions, segregation, or inequality?
-  </h3>
+    How can they be designed to promote the public good instead?</strong>
+    </p>
 
-  <h3 class="project-questions">
-    How can they be designed to promote the public good instead?
-  </h3>
-
-  <div class="project-answer">
-    <p>
-      CAIO addresses these questions by studying the <em>feedback loops</em>
+    <p>CAIO addresses these questions by studying the <em>feedback loops</em>
       between people, algorithms, and urban environments across navigation,
       ride-hailing, housing, and location-based services.
       Combining large-scale data, controlled experiments, mathematical models,
@@ -34,7 +25,6 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
       effects of AI and to develop complexity-informed recommender systems that
       balance individual preferences with collective goals.
     </p>
-  </div>
 </section>
 
 <section class="section-band">
