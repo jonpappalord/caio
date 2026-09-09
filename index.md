@@ -17,7 +17,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     harms such as congestion, emissions, segregation, or inequality?</h3>
     <h3>How can they be designed to promote the public good instead?</h3>
 
-    <p>CAIO addresses these questions by studying the <em>feedback loops</em>
+    <p class="lead">CAIO addresses these questions by studying the <em>feedback loops</em>
       between people, algorithms, and urban environments across navigation,
       ride-hailing, housing, and location-based services.
       Combining large-scale data, controlled experiments, mathematical models,
