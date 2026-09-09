@@ -61,29 +61,17 @@ li+li { margin-top:.45rem; }
 .news-links a { font-size:.88rem; font-weight:700; text-decoration:none; }
 .statement { margin:90px auto 0; max-width:900px; text-align:center; }
 .statement p { margin-inline:auto; color:var(--brown); font:600 clamp(1.7rem,3vw,2.7rem)/1.3 Georgia,serif; }
+
 .project-description {
   position: relative;
   max-width: 940px;
   margin: 2rem 0;
   overflow: hidden;
-  background: var(--sand);
-}
-
-.project-description::after {
-  content: "";
-  position: absolute;
-  top: -55px;
-  right: -55px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  background: var(--teal);
-  opacity: 0.08;
 }
 
 .project-questions {
-  font-size: clamp(1.4rem, 2.4vw, 1.9rem);
-  line-height: 1.3;
+  font-size: clamp(1.5rem, 2.4vw, 2rem);
+  line-height: 1.4;
 }
 
 .project-answer p {
@@ -91,11 +79,6 @@ li+li { margin-top:.45rem; }
   color: var(--muted);
   font-size: 1.08rem;
   line-height: 1.75;
-}
-
-.project-answer p {
-  margin: 0;
-  color: var(--muted);
 }
 
 .project-answer p + p {
