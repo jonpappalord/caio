@@ -5,7 +5,13 @@ description: Meet the researchers behind CAIO.
 ---
 <section class="profile">
   <img src="{{ '/assets/img/foto_luca_pappalardo.jpg' | relative_url }}" alt="Luca Pappalardo">
-  <div><p class="eyebrow">Principal Investigator</p><h2>Luca Pappalardo</h2><p class="role">Senior Researcher at ISTI–CNR, Pisa, Italy</p><p>Project leadership and scientific coordination.</p></div>
+  <div><p class="eyebrow">Principal Investigator</p><h2>Luca Pappalardo</h2><p class="role">Senior Researcher at ISTI–CNR, Pisa, Italy</p><p>Project leadership and scientific coordination.</p>
+  <a class="scholar-link" href="https://scholar.google.com/citations?hl=en&amp;user=88VJDhcAAAAJ" target="_blank" rel="noopener" aria-label="Luca Pappalardo on Google Scholar">
+<svg class="scholar-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 1.5 8.7 12 14.4l8-4.35V16h2V8.7L12 3Z"/><path d="M5.5 12.2V17c0 1.7 2.9 3.2 6.5 3.2s6.5-1.5 6.5-3.2v-4.8L12 15.7l-6.5-3.5Z"/></svg>
+Google Scholar
+</a>
+
+  </div>
 </section>
 ## Project team
 
@@ -19,6 +25,10 @@ description: Meet the researchers behind CAIO.
     <h2>Dino Pedreschi</h2>
     <p class="role">Full Professor of Computer Science, University of Pisa, Italy</p>
     <p>His research focuses on human-centred AI, data mining and computational social science, with particular attention to the societal impact of artificial intelligence.</p>
+  <a class="scholar-link" href="https://scholar.google.com/citations?hl=en&amp;user=5efz6osAAAAJ" target="_blank" rel="noopener" aria-label="Dino Pedreschi on Google Scholar">
+<svg class="scholar-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 1.5 8.7 12 14.4l8-4.35V16h2V8.7L12 3Z"/><path d="M5.5 12.2V17c0 1.7 2.9 3.2 6.5 3.2s6.5-1.5 6.5-3.2v-4.8L12 15.7l-6.5-3.5Z"/></svg>
+Google Scholar
+</a>
   </div>
 </section>
 
@@ -32,5 +42,9 @@ description: Meet the researchers behind CAIO.
     <h2>Kamil Smolak</h2>
     <p class="role">Assistant Professor of Geodesy and Geoinformatics, Wroclaw University of Environmental and Life Sciences, Poland</p>
     <p>Kamil Smolak is conducting a NAWA Bekker Fellowship at ISTI-CNR. His research focuses on understanding human mobility using large-scale digital data, with particular interest in biases and representativeness of mobility datasets, data processing methods, and the development of robust approaches for analysing and modelling human movement.</p>
+  <a class="scholar-link" href="https://scholar.google.com/citations?hl=en&amp;user=5efz6osAAAAJ" target="_blank" rel="noopener" aria-label="Dino Pedreschi on Google Scholar">
+<svg class="scholar-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 1.5 8.7 12 14.4l8-4.35V16h2V8.7L12 3Z"/><path d="M5.5 12.2V17c0 1.7 2.9 3.2 6.5 3.2s6.5-1.5 6.5-3.2v-4.8L12 15.7l-6.5-3.5Z"/></svg>
+Google Scholar
+</a>
   </div>
 </section>
