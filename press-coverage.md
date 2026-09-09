@@ -62,3 +62,20 @@ description: Media coverage and public engagement from the CAIO project.
     <br/>Cornacchia et al., <a href="https://www.nature.com/articles/s41467-026-75254-8">The traffic concentration effects of urban navigation services</a>, Nature Communications 17, 8548 (2026)
   </p>
 </article>
+
+<article class="press-item">
+  <p class="press-meta">
+    <span>Blog article</span>
+    <span aria-hidden="true">·</span>
+    <span>ISTI-CNR</span>
+  </p>
+
+  <h2 class="press-title">
+    <a href="https://www.isti.cnr.it/it/comunicazioni/notizie/2623-il-progetto-city-ai-coevolution-del-cnr-isti-vince-un-finanziamento-fis-2024-2025-da-1-4-milioni-di-euro"
+       target="_blank"
+       rel="noopener">
+      Il progetto ‘City–AI Coevolution’ del Cnr Isti vince un finanziamento FIS 2024–2025 da 1,4 milioni di euro
+    </a>
+  </h2>
+
+</article>
