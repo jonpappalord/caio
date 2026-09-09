@@ -104,11 +104,11 @@ li+li { margin-top:.45rem; }
   line-height: 1.65;
 }
 
-.project-answer {
-  max-width: 800px;
-  margin-top: 2rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--line);
+.project-answer p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.08rem;
+  line-height: 1.75;
 }
 
 .project-answer p {
