@@ -78,4 +78,10 @@ description: Media coverage and public engagement from the CAIO project.
     </a>
   </h2>
 
+   <p class="press-byline">
+    By Ufficio Comunicazione ISTI-CNR
+    <span aria-hidden="true">·</span>
+    <time datetime="2025-15-12">15 December 2025</time>
+  </p>
+
 </article>
