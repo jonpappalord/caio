@@ -36,7 +36,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     <li class="news-item">
       <time datetime="2026-22-09">22 Sep 2026</time>
       <span class="news-category">Event</span>
-      <p>Luca Pappalardo will attend the third edition of the <a href="https://europeanmobilitysymposium.github.io/" target="_blank" rel="noopener">European Mobility Symposium</a>, which will be help in Exeter, UK, from September 22nd to September 24th.</p>
+      <p>Luca Pappalardo will attend the third edition of the <a href="https://europeanmobilitysymposium.github.io/" target="_blank" rel="noopener">European Mobility Symposium</a>, which will be held in Exeter, UK, from September 22nd to September 24th.</p>
     </li>
     <li class="news-item">
       <time datetime="2026-09-03">3 Sep 2026</time>
