@@ -57,6 +57,15 @@ li+li { margin-top:.45rem; }
 .scholar-link { display:inline-flex; align-items:center; gap:.45rem; margin-top:.6rem; color:var(--teal-dark); font-size:.88rem; font-weight:700; text-decoration:none; }
 .scholar-link:hover { color:var(--brown); text-decoration:underline; text-underline-offset:3px; }
 .scholar-icon { width:18px; height:18px; fill:currentColor; flex:0 0 auto; }
+.scholar-link .scholar-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  max-width: 16px;
+  min-width: 16px;
+  fill: currentColor;
+  flex: 0 0 16px;
+}
 .team-profile { margin-top:2rem; }
 .team-profile .role + p { color:var(--muted); font-size:.96rem; line-height:1.65; }
 .empty-state { padding:26px 30px; border-left:3px solid var(--teal); background:var(--sand); }
