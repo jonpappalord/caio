@@ -88,9 +88,10 @@ li+li { margin-top:.45rem; }
 .profile img { width:260px; aspect-ratio:1; object-fit:cover; border-radius:2px 40px 2px 2px; filter:saturate(.85); }
 .profile h2 { margin:0 0 8px; }
 .profile .role { color:var(--teal-dark); font-weight:700; }
-.scholar-link { display:inline-flex; align-items:center; gap:.45rem; margin-top:.6rem; color:var(--teal-dark); font-size:.88rem; font-weight:700; text-decoration:none; }
-.scholar-link:hover { color:var(--brown); text-decoration:underline; text-underline-offset:3px; }
-.scholar-icon { width:18px; height:18px; fill:currentColor; flex:0 0 auto; }
+.profile-links { display:flex; flex-wrap:wrap; align-items:center; gap:.65rem 1.25rem; margin-top:.8rem; }
+.profile-link { display:inline-flex; align-items:center; gap:.45rem; color:var(--teal-dark); font-size:.88rem; font-weight:700; text-decoration:none; }
+.profile-link:hover { color:var(--brown); text-decoration:underline; text-underline-offset:3px; }
+.profile-link-icon,.scholar-icon { display:block; width:16px!important; min-width:16px; max-width:16px!important; height:16px!important; fill:currentColor; flex:0 0 16px; }
 .team-profile { margin-top:2rem; }
 .team-profile .role + p { color:var(--muted); font-size:.96rem; line-height:1.65; }
 .empty-state { padding:26px 30px; border-left:3px solid var(--teal); background:var(--sand); }
