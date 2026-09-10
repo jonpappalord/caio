@@ -8,6 +8,36 @@ description: Media coverage and public engagement from the CAIO project.
   <p class="press-meta">
     <span>Newspaper article</span>
     <span aria-hidden="true">·</span>
+    <span>La Repubblica</span>
+  </p>
+
+  <h2 class="press-title">
+    <a href="https://firenze.repubblica.it/cronaca/2026/09/09/news/navigatore_auto_citta_danni_ambiente-425574718/"
+       target="_blank"
+       rel="noopener">
+      L’uso del navigatore in città ha un impatto negativo sull’ambiente
+    </a>
+  </h2>
+
+  <p class="press-byline">
+    By <a href="https://www.repubblica.it/autori/antonino_palumbo/"
+          target="_blank"
+          rel="noopener">Antonino Palumbo</a>
+    <span aria-hidden="true">·</span>
+    <time datetime="2026-09-09">9 September 2026</time>
+  </p>
+
+  <p class="press-description">
+    Scientific article it refers to: 
+    <br/>Cornacchia et al., <a href="https://www.nature.com/articles/s41467-026-75254-8">The traffic concentration effects of urban navigation services</a>, Nature Communications 17, 8548 (2026)
+  </p>
+</article>
+
+
+<article class="press-item">
+  <p class="press-meta">
+    <span>Newspaper article</span>
+    <span aria-hidden="true">·</span>
     <span>La Nazione</span>
   </p>
 
