@@ -3,6 +3,32 @@ layout: default
 title: Press Coverage
 description: Media coverage and public engagement from the CAIO project.
 ---
+
+<article class="press-item">
+  <p class="press-meta">
+    <span>Newspaper article</span>
+    <span aria-hidden="true">·</span>
+    <span>La Nazione</span>
+  </p>
+
+  <h2 class="press-title">
+    <a href="https://www.lanazione.it/pisa/cronaca/navigatori-traffico-algoritmo-ikg0wlmj"
+       target="_blank"
+       rel="noopener">
+      I navigatori satellitari intasano le strade. “Dobbiamo ripensare l’uso della IA
+    </a>
+  </h2>
+
+  <p class="press-byline">
+    <time datetime="2026-09-10">10 September 2026</time>
+  </p>
+
+  <p class="press-description">
+    Scientific article it refers to: 
+    <br/>Cornacchia et al., <a href="https://www.nature.com/articles/s41467-026-75254-8">The traffic concentration effects of urban navigation services</a>, Nature Communications 17, 8548 (2026)
+  </p>
+</article>
+
 <article class="press-item">
   <p class="press-meta">
     <span>Newspaper article</span>
