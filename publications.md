@@ -37,7 +37,7 @@ description: Research outputs from the CAIO project.
     This article discusses the paradox that characterizes algorithmic recommendation systems: they increase the variety of individual choices but concentrate collective attention on a few popular options.
   </p>
 </article>
-</hr>
+<hr>
 <article class="publication-item">
   <h2 class="publication-title">
     <a href="https://doi.org/10.1145/3828663" target="_blank" rel="noopener">
