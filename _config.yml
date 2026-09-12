@@ -2,8 +2,8 @@ title: CAIO
 description: City–AI Coevolution
 theme: minima
 
-url: "https://jonpappalord.github.io"
-baseurl: "/caio"
+url: "https://www.caio-project.it"
+baseurl: ""
 
 header_pages:
   - about.md
