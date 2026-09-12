@@ -35,6 +35,11 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 
   <ol class="news-list">
     <li class="news-item">
+      <time datetime="2026-14-09">14 Sep 2026, 10am</time>
+      <span class="news-category">Event</span>
+      <p>Prof. <a href="https://scholar.google.it/citations?user=_CNYi6MAAAAJ&hl=it&oi=ao">Gourab Ghoshal</a> will have a CAIO seminar entitled "Information Transfer in Colocation Networks" at Officine Garibaldi.</p>
+    </li>
+    <li class="news-item">
       <time datetime="2026-22-09">22 Sep 2026</time>
       <span class="news-category">Event</span>
       <p>Luca Pappalardo will attend the third edition of the <a href="https://europeanmobilitysymposium.github.io/" target="_blank" rel="noopener">European Mobility Symposium</a>, which will be held in Exeter, UK, from September 22nd to September 24th.</p>
