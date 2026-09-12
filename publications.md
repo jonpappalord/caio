@@ -23,6 +23,23 @@ description: Research outputs from the CAIO project.
 <hr>
 <article class="publication-item">
   <h2 class="publication-title">
+    <a href="https://www.aspeninstitute.it/en/numero_aspenia/the-new-scramble/" target="_blank" rel="noopener">
+      Algorithms vs Diversity
+    </a>
+  </h2>
+  <p class="publication-authors">
+    Luca Pappalardo, Dino Pedreschi
+  </p>
+  <p class="publication-venue">
+    <em>Aspenia</em> <strong>1</strong> "The new scramble", (2026)
+  </p>
+  <p class="publication-description">
+    This article discusses the paradox that characterizes algorithmic recommendation systems: they increase the variety of individual choices but concentrate collective attention on a few popular options.
+  </p>
+</article>
+</hr>
+<article class="publication-item">
+  <h2 class="publication-title">
     <a href="https://doi.org/10.1145/3828663" target="_blank" rel="noopener">
       Learning by Surprise: Adaptive Mitigation of Model Collapse in Large Language Models
     </a>
