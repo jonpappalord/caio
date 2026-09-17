@@ -22,28 +22,31 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 <style>
   .hero-funding {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 2rem;
+    align-self: center;
+    gap: 2.25rem;
   }
 
   .hero-funding img {
     display: block;
-    width: auto;
-    max-width: 180px;
-    max-height: 90px;
+    width: 240px;
+    max-width: 100%;
+    max-height: 115px;
     object-fit: contain;
   }
 
   @media (max-width: 820px) {
     .hero-funding {
+      align-items: flex-start;
       justify-content: flex-start;
       gap: 1.5rem;
     }
 
     .hero-funding img {
-      max-width: 140px;
-      max-height: 70px;
+      width: 190px;
+      max-height: 90px;
     }
   }
 </style>
