@@ -117,12 +117,41 @@ li+li { margin-top:.45rem; }
 .social-links a:hover { color:var(--brown); text-decoration:underline; text-underline-offset:3px; }
 .social-links svg { display:block; width:16px!important; min-width:16px; max-width:16px!important; height:16px!important; flex:0 0 16px; fill:currentColor; }
 .site-footer { color:#eae4de; background:var(--brown); }
+
+.funding-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: start;
+  gap: 56px;
+}
+
+.institutional-group {
+  display: grid;
+  grid-template-columns: auto 180px;
+  align-items: center;
+  gap: 28px;
+}
+
+.funding-logos {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 38px;
+  min-height: 70px;
+}
+
+.funding-logo {
+  display: block;
+  width: 110px;
+  max-width: 110px;
+  max-height: 70px;
+  object-fit: contain;
+}
+
+
 .funding-strip { padding:32px 0; color:var(--ink); background:var(--white); border-top:1px solid var(--line); }
-.funding-content { display:flex; align-items:center; justify-content:space-between; gap:56px; }
-.institutional-group { display:flex; align-items:center; gap:28px; }
 .site-footer .funding-label { margin:0; color:var(--muted); font-size:.72rem; font-weight:750; letter-spacing:.14em; text-transform:uppercase; white-space:nowrap; }
 .funding-logos { display:flex; align-items:center; justify-content:flex-end; gap:38px; }
-.funding-logo { display:block; width:110px; max-width:110px; height:auto; object-fit:contain; }
 .footer-grid { display:flex; justify-content:space-between; align-items:end; gap:40px; padding-top:52px; padding-bottom:52px; }
 .footer-logo { width:105px; filter:brightness(0) invert(1); opacity:.96; }
 .site-footer p { margin:12px 0 0; color:#eae4de; font-size:.88rem; }
