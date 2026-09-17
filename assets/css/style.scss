@@ -120,16 +120,16 @@ li+li { margin-top:.45rem; }
 
 .funding-content {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  align-items: start;
-  gap: 56px;
+  grid-template-columns: max-content max-content max-content;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
 }
 
 .institutional-group {
-  display: grid;
-  grid-template-columns: auto 180px;
+  display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 16px;
 }
 
 .funding-logos {
