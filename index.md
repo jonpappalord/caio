@@ -7,7 +7,46 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
   <div><p class="eyebrow">City–AI Coevolution</p><h1>Understanding cities shaped by AI.</h1>
   <p class="lead">CAIO (City-AI Coevolution) is a five-year research project (2026–2031) funded with €1.4 million by the <i>Italian Ministry of University and Research (MUR)</i> through a <a href="https://fis-submission.mur.gov.it/">Fondo Italiano per la Scienza (FIS)</a> <strong>Consolidator Grant</strong>.</p>
   </div>
+  <div class="hero-funding" aria-label="CAIO funding institutions">
+    <img
+      src="{{ '/assets/img/logo-fis.png' | relative_url }}"
+      alt="FIS — Fondo Italiano per la Scienza"
+    >
+    <img
+      src="{{ '/assets/img/logo-mur.jpg' | relative_url }}"
+      alt="Ministero dell’Università e della Ricerca"
+    >
+  </div>
 </section>
+
+<style>
+  .hero-funding {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+  }
+
+  .hero-funding img {
+    display: block;
+    width: auto;
+    max-width: 180px;
+    max-height: 90px;
+    object-fit: contain;
+  }
+
+  @media (max-width: 820px) {
+    .hero-funding {
+      justify-content: flex-start;
+      gap: 1.5rem;
+    }
+
+    .hero-funding img {
+      max-width: 140px;
+      max-height: 70px;
+    }
+  }
+</style>
 
 <section class="project-description">
   <div>
