@@ -16,6 +16,32 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
       src="{{ '/assets/img/logo-mur.jpg' | relative_url }}"
       alt="Ministero dell’Università e della Ricerca"
     >
+    <dl class="grant-details">
+      <div>
+        <dt>Grant agreement ID</dt>
+        <dd>FIS-2024-03129</dd>
+      </div>
+      <div>
+        <dt>Call</dt>
+        <dd><a href="https://fis-submission.mur.gov.it/" target="_blank" rel="noopener">FIS 3</a></dd>
+      </div>
+      <div>
+        <dt>Total cost</dt>
+        <dd>€1,400,000</dd>
+      </div>
+      <div>
+        <dt>Duration</dt>
+        <dd>5 years</dd>
+      </div>
+      <div>
+        <dt>PI</dt>
+        <dd><a href="https://jonpappalord.github.io/lucapappalardo/#top" target="_blank" rel="noopener">Luca Pappalardo</a></dd>
+      </div>
+      <div>
+        <dt>Email</dt>
+        <dd><a href="mailto:luca.pappalardo@cnr.it">luca.pappalardo@cnr.it</a></dd>
+      </div>
+    </dl>
   </div>
 </section>
 
@@ -37,6 +63,44 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     object-fit: contain;
   }
 
+  .grant-details {
+    width: 100%;
+    max-width: 330px;
+    margin: 0;
+    padding-top: 1.4rem;
+    border-top: 1px solid var(--line);
+    font-size: 0.9rem;
+  }
+
+  .grant-details > div {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    gap: 0.8rem;
+    padding: 0.28rem 0;
+  }
+
+  .grant-details dt {
+    color: var(--muted);
+    font-weight: 600;
+  }
+
+  .grant-details dd {
+    margin: 0;
+    color: var(--ink);
+    font-weight: 700;
+  }
+
+  .grant-details a {
+    color: var(--teal-dark);
+    text-decoration: none;
+  }
+
+  .grant-details a:hover {
+    color: var(--brown);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
   @media (max-width: 820px) {
     .hero-funding {
       align-items: flex-start;
@@ -47,6 +111,10 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     .hero-funding img {
       width: 190px;
       max-height: 90px;
+    }
+
+    .grant-details {
+      max-width: 330px;
     }
   }
 </style>
