@@ -12,19 +12,19 @@ description: Media coverage and public engagement from the CAIO project.
   </p>
 
   <h2 class="press-title">
-    <a href="https://firenze.repubblica.it/cronaca/2026/09/09/news/navigatore_auto_citta_danni_ambiente-425574718/"
+    <a href="https://www.repubblica.it/green-and-blue/2026/09/17/news/navigatore_satellitare_impatto_ambientale_traffico_urbano-425588233/amp/"
        target="_blank"
        rel="noopener">
-      L’uso del navigatore in città ha un impatto negativo sull’ambiente
+      Navigatore satellitare, se usato in massa impatta di più e aumenta il traffico
     </a>
   </h2>
 
   <p class="press-byline">
-    By <a href="https://www.repubblica.it/autori/antonino_palumbo/"
+    By <a href="https://www.repubblica.it/autori/paolo_travisi/"
           target="_blank"
-          rel="noopener">Antonino Palumbo</a>
+          rel="noopener">Paolo Travisi</a>
     <span aria-hidden="true">·</span>
-    <time datetime="2026-09-09">9 September 2026</time>
+    <time datetime="2026-09-17">17 September 2026</time>
   </p>
 
   <p class="press-description">
