@@ -45,7 +45,7 @@ description: Media coverage and public engagement from the CAIO project.
     <a href="https://www.lanazione.it/pisa/cronaca/navigatori-traffico-algoritmo-ikg0wlmj"
        target="_blank"
        rel="noopener">
-      I navigatori satellitari intasano le strade. “Dobbiamo ripensare l’uso della IA
+      I navigatori satellitari intasano le strade. “Dobbiamo ripensare l’uso della IA"
     </a>
   </h2>
 
