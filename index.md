@@ -18,7 +18,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     >
     <dl class="grant-details">
       <div>
-        <dt>Grant agreement ID</dt>
+        <dt>Grant agreement/dt>
         <dd>FIS-2024-03129</dd>
       </div>
       <div>
@@ -26,7 +26,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
         <dd><a href="https://fis-submission.mur.gov.it/" target="_blank" rel="noopener">FIS 3</a></dd>
       </div>
       <div>
-        <dt>Total cost</dt>
+        <dt>Total funding</dt>
         <dd>€1,400,000</dd>
       </div>
       <div>
@@ -39,7 +39,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
       </div>
       <div>
         <dt>Email</dt>
-        <dd><a href="mailto:luca.pappalardo@cnr.it">luca.pappalardo@cnr.it</a></dd>
+        <dd><a href="mailto:luca.pappalardo@cnr.it">luca.pappalardo @ cnr.it</a></dd>
       </div>
     </dl>
   </div>
