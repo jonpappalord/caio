@@ -18,7 +18,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     >
     <dl class="grant-details">
       <div>
-        <dt>Grant agreement/dt>
+        <dt>Grant agreement</dt>
         <dd>FIS-2024-03129</dd>
       </div>
       <div>
