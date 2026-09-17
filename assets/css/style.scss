@@ -118,7 +118,7 @@ li+li { margin-top:.45rem; }
 .social-links svg { display:block; width:16px!important; min-width:16px; max-width:16px!important; height:16px!important; flex:0 0 16px; fill:currentColor; }
 .site-footer { color:#eae4de; background:var(--brown); }
 .funding-strip { padding:32px 0; color:var(--ink); background:var(--white); border-top:1px solid var(--line); }
-.funding-content { display:flex; align-items:flex-end; justify-content:space-between; gap:56px; }
+.funding-content { display:flex; align-items:center; justify-content:space-between; gap:56px; }
 .institutional-group { display:flex; align-items:center; gap:28px; }
 .site-footer .funding-label { margin:0; color:var(--muted); font-size:.72rem; font-weight:750; letter-spacing:.14em; text-transform:uppercase; white-space:nowrap; }
 .funding-logos { display:flex; align-items:center; justify-content:flex-end; gap:38px; }
