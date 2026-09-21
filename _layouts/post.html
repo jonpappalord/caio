@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<article class="blog-post">
+  <header class="blog-post-header">
+    {% if page.category %}<p class="eyebrow">{{ page.category }}</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="blog-post-deck">{{ page.subtitle }}</p>{% endif %}
+    <p class="blog-post-byline">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      {% if page.author %}<span aria-hidden="true">·</span> By {{ page.author }}{% endif %}
+    </p>
+  </header>
+
+  {% if page.image %}
+  <figure class="blog-hero-image">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}">
+    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
+
+  <div class="blog-post-grid{% unless page.links %} blog-post-grid--single{% endunless %}">
+    {% if page.links %}
+    <aside class="blog-quick-links" aria-label="Quick links">
+      <h2>Quick links</h2>
+      <ul>
+        {% for link in page.links %}
+        <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
+    <div class="blog-post-body">
+      {{ content }}
+    </div>
+  </div>
+
+  <footer class="blog-post-footer">
+    <a href="{{ '/blog/' | relative_url }}">← Back to the blog</a>
+  </footer>
+</article>
