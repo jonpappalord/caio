@@ -3,7 +3,7 @@ layout: post
 title: "A clear, concise title stating the research outcome"
 subtitle: "One sentence explaining the main finding and why it matters."
 author: "Author name"
-date: YYYY-MM-DD
+date: 2026-09-21
 category: "Research"
 description: "A short description for search engines and link previews."
 image: /assets/img/blog/article-slug/hero.jpg
