@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blog
 permalink: /blog/
 description: Stories, explanations and research outcomes from the CAIO project.
