@@ -1,3 +1,23 @@
+---
+layout: post
+title: "When Navigation Apps Send Everyone Down the Same Road"
+subtitle: "Urban algorithmic recommendations and traffic concentration effects."
+author: "Luca Pappalardo"
+date: 2026-09-22
+category: "Research"
+description: "Navigation services can reduce emissions when adoption is limited, but widespread use concentrates vehicles on fewer roads and may cause those benefits to disappear or reverse."
+image: /assets/img/blog/navigation-apps-concentrate-traffic/figure-1.png
+image_alt: "Charts showing how route diversity and carbon dioxide emissions change as navigation-service adoption increases in Florence, Milan, and Rome."
+image_caption: "Navigation services reduce route diversity as adoption increases, while their environmental benefits plateau or reverse under heavy traffic. Adapted from Cornacchia et al. (2026), CC BY 4.0."
+links:
+  - label: "Paper"
+    url: "https://doi.org/10.1038/s41467-026-75254-8"
+  - label: "Code"
+    url: "https://github.com/GiulianoCornacchia/Urban-Impact-Navigators"
+  - label: "Data"
+    url: "https://doi.org/10.5281/zenodo.20001710"
+---
+
 # When navigation apps send everyone down the same road
 
 Navigation apps promise a simple benefit: a better route for each driver. But cities are shared systems. When thousands of people receive similar recommendations at the same time, individually sensible choices can combine into a very different collective outcome.
