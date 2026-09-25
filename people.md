@@ -67,8 +67,8 @@ Google Scholar
     <p class="eyebrow">Visiting Professor</p>
     <h2>Kamil Smolak</h2>
     <p class="role">Assistant Professor of Geodesy and Geoinformatics, Wroclaw University of Environmental and Life Sciences, Poland</p>
-    <p>Kamil Smolak is conducting a NAWA Bekker Fellowship at ISTI-CNR. His research focuses on understanding human mobility using large-scale digital data, with particular interest in biases and representativeness of mobility datasets, data processing methods, and the development of robust approaches for analysing and modelling human movement.</p>
-    <p>He is the Principal Investigator of <a href="https://smolakk.github.io/BURST/">BURST</a>, a two-year research project (2026–2028) funded by a <a href="https://nawa.gov.pl/en/scientists/the-bekker-programme">Bekker NAWA</a> fellowship. Building on themes from CAIO, BURST examines the urban impact of algorithmic routing to design recommender systems that keep cities moving without funneling crowd traffic into the same streets.</p>
+    <p>Kamil Smolak is conducting a NAWA Bekker Fellowship at ISTI-CNR. His research focuses on understanding human mobility using large-scale digital data, with particular interest in biases and representativeness of mobility datasets, data processing methods, and the development of robust approaches for analysing and modelling human movement.
+  He is the Principal Investigator of <a href="https://smolakk.github.io/BURST/">BURST</a>, a two-year research project (2026–2028) funded by a <a href="https://nawa.gov.pl/en/scientists/the-bekker-programme">Bekker NAWA</a> fellowship. Building on themes from CAIO, BURST examines the urban impact of algorithmic routing to design recommender systems that keep cities moving without funneling crowd traffic into the same streets.</p>
   <div class="profile-links">
   <a class="profile-link" href="mailto:kamil.smolak@upwr.edu.pl" aria-label="Email Kamil Smolak">
 <svg class="profile-link-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm9 7.1L20.2 7H3.8l8.2 5.1Zm0 2.35L3 8.85V17h18V8.85l-9 5.6Z"/></svg>
