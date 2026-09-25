@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Navigation Apps Send Everyone Down the Same Road"
+title: "Navigation apps send everyone down the same road"
 subtitle: "Urban algorithmic recommendations and traffic concentration effects."
 author: "Luca Pappalardo"
 date: 2026-09-22
@@ -18,11 +18,9 @@ links:
     url: "https://doi.org/10.5281/zenodo.20001710"
 ---
 
-# When navigation apps send everyone down the same road
+Navigation apps promise a simple benefit: a better route for each driver. But cities are shared systems. When thousands of people receive similar recommendations at the same time, individual choices can combine into unintended collective outcomes.
 
-Navigation apps promise a simple benefit: a better route for each driver. But cities are shared systems. When thousands of people receive similar recommendations at the same time, individually sensible choices can combine into a very different collective outcome.
-
-Until now, evidence about that outcome has been fragmented. Some studies report shorter journeys and lower emissions; others document congestion, traffic spillovers and pressure on residential streets. What was missing was a systematic way to test several navigation services, adoption levels and traffic conditions across different cities.
+Until now, evidence about that outcome has been fragmented. Some studies report shorter journeys and lower emissions; others document congestion, traffic spillovers and pressure on residential streets (see our recent [survey paper](https://arxiv.org/abs/2407.01630) on the topic). What was missing was a systematic way to test several navigation services, adoption levels and traffic conditions across different cities.
 
 Our study shows that navigation services produce a consistent **traffic concentration effect**. As more drivers follow algorithmic recommendations, routes converge onto a smaller part of the road network. At low adoption, this can reduce emissions. At high adoption, however, the benefit reaches a plateau and may disappear or reverse because too many vehicles are directed towards the same roads.
 
@@ -32,7 +30,7 @@ Navigation platforms such as Google Maps, Bing Maps, Mapbox and TomTom optimise 
 
 This is a coordination problem. If recommended routes overlap, traffic becomes concentrated. Roads that initially look efficient can become congested as adoption grows, changing speeds, queues, fuel consumption and emissions. The best route for one driver is therefore not necessarily part of the best allocation for the city as a whole.
 
-Previous findings have been difficult to reconcile because studies often examine a single provider, one city or one level of adoption. Real-world experiments are also difficult: traffic conditions cannot be reset, non-users still interact with users, and accidents, roadworks and changes in demand make exact replication impossible. A common framework is needed to compare counterfactual scenarios—for example, what the same morning traffic might look like if 20%, 60% or 100% of drivers followed a navigation service.
+Previous findings have been difficult to reconcile because studies often examine a single provider, one city or one level of adoption. Real-world experiments are also difficult: traffic conditions cannot be reset, non-users still interact with users, and accidents, roadworks and changes in demand make exact replication impossible. A common framework is needed to compare counterfactual scenarios, e.g., what the same morning traffic might look like if 20%, 60% or 100% of drivers followed a navigation service.
 
 ## What we studied
 
