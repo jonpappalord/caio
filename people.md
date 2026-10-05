@@ -5,7 +5,8 @@ description: Meet the researchers behind CAIO.
 ---
 <section class="profile">
   <img src="{{ '/assets/img/foto_luca_pappalardo.jpg' | relative_url }}" alt="Luca Pappalardo">
-  <div><p class="eyebrow">Principal Investigator</p><h2>Luca Pappalardo</h2><p class="role">Senior Researcher at ISTI–CNR, Pisa, Italy</p><p>Project leadership and scientific coordination.</p>
+  <div><p class="eyebrow">Principal Investigator</p><h2>Luca Pappalardo</h2><p class="role">Senior Researcher at ISTI–CNR, Pisa, Italy</p>
+    <p>The Principal Investigator of CAIO. He coordinates the project and leads its research activities on city–AI coevolution. He previously coordinated URBAI, a PRIN project funded by the Italian Ministry of University and Research, which served as an intellectual laboratory for many of the ideas and research directions now being developed within CAIO.</p>
   <div class="profile-links">
   <a class="profile-link" href="mailto:luca.pappalardo@cnr.it" aria-label="Email Luca Pappalardo">
 <svg class="profile-link-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm9 7.1L20.2 7H3.8l8.2 5.1Zm0 2.35L3 8.85V17h18V8.85l-9 5.6Z"/></svg>
@@ -97,7 +98,8 @@ Google Scholar
   <div>
     <p class="eyebrow">Postdoctoral Researcher</p>
     <h2>Giovanni Mauro</h2>
-    <p class="role">His research unfolds across two research lines. The first line explores the impact of recommender systems on urban environments, with a particular focus on the inequalities arising from human–algorithm co-evolution. The second focuses on developing algorithms to understand and predict human mobility, ranging from daily commuting to long-term relocation patterns like segregation and gentrification.<div class="profile-links">
+    <p class="role">His research unfolds across two research lines. The first line explores the impact of recommender systems on urban environments, with a particular focus on the inequalities arising from human–algorithm co-evolution. The second focuses on developing algorithms to understand and predict human mobility, ranging from daily commuting to long-term relocation patterns like segregation and gentrification.</p>
+    <div class="profile-links">
   <a class="profile-link" href="mailto:giovanni.mauro@sns.it" aria-label="Email Giovanni Mauro">
 <svg class="profile-link-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm9 7.1L20.2 7H3.8l8.2 5.1Zm0 2.35L3 8.85V17h18V8.85l-9 5.6Z"/></svg>
 giovanni.mauro@sns.it
