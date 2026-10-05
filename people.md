@@ -88,3 +88,31 @@ Google Scholar
   </div>
   </div>
 </section>
+
+<section class="profile team-profile">
+  <img src="{{ '/assets/img/giovanni_mauro.jpeg' | relative_url }}"
+       width="260"
+       height="260"
+       alt="Giovanni Mauro">
+  <div>
+    <p class="eyebrow">Postdoctoral Researcher</p>
+    <h2>Giovanni Mauro</h2>
+    <p class="role">His research unfolds across two research lines. The first line explores the impact of recommender systems on urban environments, with a particular focus on the inequalities arising from human–algorithm co-evolution. The second focuses on developing algorithms to understand and predict human mobility, ranging from daily commuting to long-term relocation patterns like segregation and gentrification.<div class="profile-links">
+  <a class="profile-link" href="mailto:giovanni.mauro@sns.it" aria-label="Email Giovanni Mauro">
+<svg class="profile-link-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm9 7.1L20.2 7H3.8l8.2 5.1Zm0 2.35L3 8.85V17h18V8.85l-9 5.6Z"/></svg>
+giovanni.mauro@sns.it
+</a>
+  <a class="profile-link scholar-link" href="https://scholar.google.it/citations?user=9JM-BiIAAAAJ&hl=it" target="_blank" rel="noopener" aria-label="Giovanni Mauro on Google Scholar">
+<svg
+  class="scholar-icon"
+  width="16"
+  height="16"
+  viewBox="0 0 24 24"
+  aria-hidden="true"
+  style="width:16px; height:16px; max-width:16px; flex-shrink:0;"
+><path d="M12 3 1.5 8.7 12 14.4l8-4.35V16h2V8.7L12 3Z"/><path d="M5.5 12.2V17c0 1.7 2.9 3.2 6.5 3.2s6.5-1.5 6.5-3.2v-4.8L12 15.7l-6.5-3.5Z"/></svg>
+Google Scholar
+</a>
+  </div>
+  </div>
+</section>
