@@ -129,7 +129,7 @@ Google Scholar
     <p class="eyebrow">Postdoctoral Researcher</p>
     <h2>Nicola Pedreschi</h2>
     <p class="role">Postdoctoral Researcher at ISTI-CNR, Pisa, Italy</p>
-    <p>Nicola's research focuses on the analysis and modelling of dynamic complex networks, with particular emphasis on complex urban phenomena such as gentrification.</p>
+    <p>His research focuses on using complex systems and networks science approaches to both model and measure the interplay between human mobility, socio-economic inequalities and the adoption of AI-mediators (recommender systems, LLMs) in causing urban and societal transformations.</p>
     <div class="profile-links">
   <a class="profile-link" href="mailto:nicola.pedreschi@isti.cnr.it" aria-label="Email Nicola Pedreschi">
 <svg class="profile-link-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm9 7.1L20.2 7H3.8l8.2 5.1Zm0 2.35L3 8.85V17h18V8.85l-9 5.6Z"/></svg>
