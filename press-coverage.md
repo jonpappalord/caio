@@ -1,8 +1,35 @@
 ---
 layout: default
-title: Press Coverage
+title: Media Coverage
 description: Media coverage and public engagement from the CAIO project.
 ---
+
+<article class="press-item">
+  <p class="press-meta">
+    <span>Podcast Interview</span>
+    <span aria-hidden="true">·</span>
+    <span>Scienza e Società</span>
+  </p>
+
+  <h2 class="press-title">
+    <a href="https://open.spotify.com/episode/1UPrTBNZ89a5NZkQSYnko2?si=BGCr7yr-Te6BaPXMKLG4XQ&nd=1&dlsi=3a88a0bb885e493b"
+       target="_blank"
+       rel="noopener">
+      Come gli algoritmi cambiano il traffico, con Luca Pappalardo
+    </a>
+  </h2>
+
+  <p class="press-byline">
+    By Caterina La Porta and Stefano Zapperi</a>
+    <span aria-hidden="true">·</span>
+    <time datetime="2026-10-02">02 October 2026</time>
+  </p>
+
+  <p class="press-description">
+    Scientific article it refers to: 
+    <br/>Cornacchia et al., <a href="https://www.nature.com/articles/s41467-026-75254-8">The traffic concentration effects of urban navigation services</a>, Nature Communications 17, 8548 (2026)
+  </p>
+</article>
 
 <article class="press-item">
   <p class="press-meta">
