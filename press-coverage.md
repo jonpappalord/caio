@@ -20,7 +20,7 @@ description: Media coverage and public engagement from the CAIO project.
   </h2>
 
   <p class="press-byline">
-    By Caterina La Porta and Stefano Zapperi</a>
+    By Caterina La Porta and Stefano Zapperi
     <span aria-hidden="true">·</span>
     <time datetime="2026-10-02">02 October 2026</time>
   </p>
