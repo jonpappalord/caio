@@ -145,6 +145,11 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 
   <ol class="news-list">
     <li class="news-item">
+      <time datetime="2026-10-25">25 Oct 2026, 2pm</time>
+      <span class="news-category">Event</span>
+      <p>Luca Pappalardo is set to present CAIO's latest findings on <i>gentrification</i> at the <a href="https://www.italiadelleregioni.it/2026/">Festival delle Regioni e delle Province autonome</a> in Florence.</p>
+    </li>
+    <li class="news-item">
       <time datetime="2026-14-09">14 Sep 2026, 10am</time>
       <span class="news-category">Event</span>
       <p>Prof. <a href="https://scholar.google.it/citations?user=_CNYi6MAAAAJ&hl=it&oi=ao">Gourab Ghoshal</a> will have a CAIO seminar entitled "Information Transfer in Colocation Networks" at Officine Garibaldi.</p>
