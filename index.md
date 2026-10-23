@@ -123,7 +123,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
   <div class="main-question">
     <span class="question-symbol" aria-hidden="true">?</span>
     <h2>
-      How do AI-driven recommendations reshape cities—and how do cities
+      How do AI-driven recommendations reshape cities, and how do cities
       reshape the algorithms that influence them?
     </h2>
   </div>
