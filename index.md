@@ -147,7 +147,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     <li class="news-item">
       <time datetime="2026-10-25">25 Oct 2026, 2pm</time>
       <span class="news-category">Event</span>
-      <p>Luca Pappalardo is set to present CAIO's latest findings on <i>gentrification</i> at the <a href="https://www.italiadelleregioni.it/2026/">Festival delle Regioni e delle Province autonome</a> in Florence.</p>
+      <p>Luca Pappalardo is set to present CAIO's latest findings on gentrification at the <a href="https://www.italiadelleregioni.it/2026/" target="_blank">Festival delle Regioni e delle Province autonome</a> in Palazzo Strozzi Sacrati, Florence, with a talk entitled <i>Chi abita la città domani? I sintomi invisibili della gentrificazione.</i> See the event <a href="https://github.com/jonpappalord/caio/blob/main/assets/img/Programma-A5_v8_VILLAGGIO.pdf" target="_blank">brochure</a> (page 48).</p>
     </li>
     <li class="news-item">
       <time datetime="2026-14-09">14 Sep 2026, 10am</time>
