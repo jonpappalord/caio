@@ -122,7 +122,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 <section class="project-description">
   <div class="main-question">
     <h2>
-      How do AI-driven recommendations reshape cities—and how do cities
+      How do AI-driven recommendations reshape cities, and how do cities
       reshape the algorithms that influence them?
     </h2>
   </div>
@@ -154,6 +154,8 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     </p>
   </div>
 </section>
+
+<section class="statement"><p>Tomorrow’s cities will not be shaped by people or algorithms alone, but by the feedback loops between them.</p></section>
 
 <section class="section-band">
   <div class="news-heading">
@@ -198,4 +200,3 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     </li>
   </ol>
 </section>
-<section class="statement"><p>Tomorrow’s cities will not be shaped by people or algorithms alone, but by the feedback loops between them.</p></section>
