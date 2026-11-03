@@ -171,7 +171,7 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
     <li class="news-item">
       <time datetime="2026">2026</time>
       <span class="news-category">Publication</span>
-      <p><a href="https://arxiv.org/abs/2610.41911" target="_blank" rel="noopener">Recommendation Feedback Loops Shape Urban Income Segregation and Venue Visitation</a> is published in <em>Arxiv</em>.</p>
+      <p><a href="https://arxiv.org/abs/2610.41911" target="_blank" rel="noopener">Recommendation Feedback Loops Shape Urban Income Segregation and Venue Visitation</a> is published in <em>Arxiv</em>. It is the outcome of a collaboration with Fondazione Bruno Kessler (<a href="https://www.fbk.eu/en/">FBK</a>) of Trento and <a href="https://www.northeastern.edu/">Northeastern University</a> of Boston.</p>
     </li>
     <li class="news-item">
       <time datetime="2026-10-25">25 Oct 2026, 2pm</time>
