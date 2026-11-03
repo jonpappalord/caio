@@ -6,6 +6,23 @@ description: Research outputs from the CAIO project.
 
 <article class="publication-item">
   <h2 class="publication-title">
+    <a href="https://arxiv.org/abs/2610.41911" target="_blank" rel="noopener">
+      Recommendation Feedback Loops Shape Urban Income Segregation and Venue Visitation
+    </a>
+  </h2>
+  <p class="publication-authors">
+    Guangyuan Weng, Lin Chen, Ciro Beneduce, Giovanni Mauro, Massimiliano Luca, Takahiro Yabe, Bruno Lepri, Luca Pappalardo, Esteban Moro
+  </p>
+  <p class="publication-venue">
+    arXiv:2610.41911 (2026)
+  </p>
+  <p class="publication-description">
+    Ths articles shows how location-based recommender systems create a human-AI feedback loop that inadvertently increases income segregation in cities and causes over a fifth of local venues to lose all visits. While standard accuracy metrics fail to capture these long-term urban impacts, implementing a simple re-ranking intervention that boosts less popular venues successfully reduces both segregation and venue disappearance without compromising user comfort.
+  </p>
+</article>
+<hr>
+<article class="publication-item">
+  <h2 class="publication-title">
     <a href="https://doi.org/10.1038/s41467-026-75254-8" target="_blank" rel="noopener">
       The traffic concentration effects of urban navigation services
     </a>
