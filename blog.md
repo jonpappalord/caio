@@ -5,7 +5,7 @@ permalink: /blog/
 description: Stories, explanations and research outcomes from the CAIO project.
 ---
 
-<p class="blog-intro">Stories from CAIO about how artificial intelligence and cities shape one another. We explain new research findings, methods and their implications for urban life.</p>
+<p class="blog-intro">Stories and events from CAIO about how AI and cities shape one another. We tell new research findings, methods and their implications for urban life.</p>
 
 {% if site.posts.size > 0 %}
 <div class="blog-list">
