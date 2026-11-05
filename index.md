@@ -169,6 +169,11 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 
   <ol class="news-list">
     <li class="news-item">
+      <time datetime="2026-10-05">5 Nov 2026, 11:30am</time>
+      <span class="news-category">Event</span>
+      <p>Prof. Dino Pedreschi will have a talk entitled "Human, or human-like: Transparency for AI generated content" at Officine Garibaldi in Pisa. Prof. Pedreschi will share insights from his experience with the AI Office on developing implementation rules for the AI Act. He will provide an overview of the regulation and discuss its current status.</p>
+    </li>
+    <li class="news-item">
       <time datetime="2026">2026</time>
       <span class="news-category">Publication</span>
       <p><a href="https://arxiv.org/abs/2610.41911" target="_blank" rel="noopener">Recommendation Feedback Loops Shape Urban Income Segregation and Venue Visitation</a> is published in <em>Arxiv</em>. It is the outcome of a collaboration with Fondazione Bruno Kessler (<a href="https://www.fbk.eu/en/">FBK</a>) of Trento and <a href="https://www.northeastern.edu/">Northeastern University</a> of Boston.</p>
