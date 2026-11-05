@@ -4,7 +4,7 @@ title: "Navigation apps send everyone down the same road"
 subtitle: "Urban algorithmic recommendations and traffic concentration effects."
 author: "Luca Pappalardo"
 date: 2026-09-22
-category: "Research"
+category: "Blog post"
 description: "Navigation services can reduce emissions when adoption is limited, but widespread use concentrates vehicles on fewer roads and may cause those benefits to disappear or reverse."
 image: /assets/img/blog/navigation-apps-concentrate-traffic/figure-1.png
 image_alt: "Charts showing how route diversity and carbon dioxide emissions change as navigation-service adoption increases in Florence, Milan, and Rome."
