@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Dissemination
 permalink: /blog/
 description: Stories, explanations and research outcomes from the CAIO project.
 ---
