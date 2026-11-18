@@ -169,6 +169,17 @@ description: CAIO studies how cities and artificial intelligence shape one anoth
 
   <ol class="news-list">
     <li class="news-item">
+      <time datetime="2026-11-13T16:30">13 Nov 2026, 4:30pm</time>
+      <span class="news-category">Event</span>
+      <p>
+        Giovanni Mauro gave a seminar entitled <em>"L'impatto dell'Intelligenza Artificiale: opportunità, implicazioni e conseguenze nella società contemporanea"</em> as part of the Political Philosophy course (<em>Filosofia Politica</em>) at Magna Graecia University of Catanzaro. The seminar introduced the different forms of AI, then focused on recommender systems and their impact on society: how the suggestions we get from online platforms shape our individual choices and, through them, the collective outcomes of our societies.
+        <img src="/assets/img/mauro-catanzaro-seminar.jpeg"
+            alt="Giovanni Mauro presenting his seminar at Magna Graecia University of Catanzaro"
+            width="900" height="600" loading="lazy"
+     style="display: block; width: 100%; max-width: 420px; height: auto; margin-top: 1rem; border-radius: 4px;">
+      </p>
+    </li>
+    <li class="news-item">
       <time datetime="2026-10-05">5 Nov 2026, 11:30am</time>
       <span class="news-category">Event</span>
       <p>Prof. Dino Pedreschi will have a talk entitled "Human, or human-like: Transparency for AI generated content" at Officine Garibaldi in Pisa. Prof. Pedreschi will share insights from his experience with the AI Office on developing implementation rules for the AI Act. He will provide an overview of the regulation and discuss its current status.</p>

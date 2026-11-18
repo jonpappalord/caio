@@ -101,11 +101,11 @@ Google Scholar
     <p class="role">Postdoctoral Researcher at ISTI-CNR, Pisa, Italy</p>
     <p>His research unfolds across two research lines. The first line explores the impact of recommender systems on urban environments, with a particular focus on the inequalities arising from human–algorithm co-evolution. The second focuses on developing algorithms to understand and predict human mobility, ranging from daily commuting to long-term relocation patterns like segregation and gentrification.</p>
     <div class="profile-links">
-  <a class="profile-link" href="mailto:giovanni.mauro@sns.it" aria-label="Email Giovanni Mauro">
+  <a class="profile-link" href="mailto:giovanni.mauro@isti.cnr.it" aria-label="Email Giovanni Mauro">
 <svg class="profile-link-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm9 7.1L20.2 7H3.8l8.2 5.1Zm0 2.35L3 8.85V17h18V8.85l-9 5.6Z"/></svg>
-giovanni.mauro@sns.it
+giovanni.mauro@isti.cnr.it
 </a>
-  <a class="profile-link scholar-link" href="https://scholar.google.it/citations?user=9JM-BiIAAAAJ&hl=it" target="_blank" rel="noopener" aria-label="Giovanni Mauro on Google Scholar">
+  <a class="profile-link scholar-link" href="https://scholar.google.com/citations?user=vFQWNIIAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener" aria-label="Giovanni Mauro on Google Scholar">
 <svg
   class="scholar-icon"
   width="16"
