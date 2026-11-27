@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Media Coverage
-permalink: /press-coverage/
 description: Media coverage and public engagement from the CAIO project, organized by research topic.
 ---
 
@@ -11,7 +10,7 @@ description: Media coverage and public engagement from the CAIO project, organiz
 </p>
 
 <div class="coverage-topics">
-  <a class="coverage-topic-card" href="{{ '/press-coverage/ai-autophagy/' | relative_url }}">
+  <a class="coverage-topic-card" href="{{ '/press-coverage/ai-autophagy.html' | relative_url }}">
     <span class="coverage-topic-number">01</span>
     <span>
       <strong>AI autophagy</strong>
@@ -20,7 +19,7 @@ description: Media coverage and public engagement from the CAIO project, organiz
     <span class="coverage-topic-link">Explore coverage <span aria-hidden="true">→</span></span>
   </a>
 
-  <a class="coverage-topic-card" href="{{ '/press-coverage/navigation-services/' | relative_url }}">
+  <a class="coverage-topic-card" href="{{ '/press-coverage/navigation-services.html' | relative_url }}">
     <span class="coverage-topic-number">02</span>
     <span>
       <strong>Navigation services</strong>
@@ -29,7 +28,7 @@ description: Media coverage and public engagement from the CAIO project, organiz
     <span class="coverage-topic-link">Explore coverage <span aria-hidden="true">→</span></span>
   </a>
 
-  <a class="coverage-topic-card" href="{{ '/press-coverage/caio-project/' | relative_url }}">
+  <a class="coverage-topic-card" href="{{ '/press-coverage/caio-project.html' | relative_url }}">
     <span class="coverage-topic-number">03</span>
     <span>
       <strong>CAIO project</strong>
