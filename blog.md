@@ -15,9 +15,21 @@ description: Stories, explanations and research outcomes from the CAIO project.
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
       {% if post.category %}<span aria-hidden="true">·</span><span>{{ post.category }}</span>{% endif %}
     </p>
+
+    {% if post.media_type %}
+    <h2>{{ post.title }}</h2>
+    {% else %}
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% endif %}
+
     {% if post.subtitle %}<p>{{ post.subtitle }}</p>{% elsif post.excerpt %}<p>{{ post.excerpt | strip_html | truncatewords: 34 }}</p>{% endif %}
+
+    {% if post.media_type %}
+      {% assign player_title = post.media_title | default: post.title %}
+      {% include media-player.html type=post.media_type src=post.media_src id=post.media_id poster=post.media_poster title=player_title %}
+    {% else %}
     <a class="blog-read-more" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title | escape }}">Read article →</a>
+    {% endif %}
   </article>
   {% endfor %}
 </div>
