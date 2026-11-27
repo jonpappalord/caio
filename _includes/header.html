@@ -20,7 +20,7 @@
         {% if page.url == "/" %}
           {% assign is_active = true %}
         {% endif %}
-      {% elsif nav_page.title == "Media Coverage" and page.url contains "/press-coverage/" %}
+      {% elsif nav_page.title == "Media Coverage" and page.url contains "/press-coverage" %}
         {% assign is_active = true %}
       {% elsif page.url == nav_page.url %}
         {% assign is_active = true %}
