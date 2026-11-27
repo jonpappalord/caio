@@ -92,7 +92,7 @@ Google Scholar
 ## Collaborators
 
 <section class="profile team-profile">
-  <img src="{{ '/assets/img/margherita_lalli.jpg' | relative_url }}"
+  <img src="{{ '/assets/img/margherita_lalli.jpeg' | relative_url }}"
        width="260"
        height="260"
        alt="Margherita Lalli">
