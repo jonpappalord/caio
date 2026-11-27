@@ -59,6 +59,34 @@ description: Media coverage and public engagement from the CAIO project.
   </p>
 </article>
 
+
+<article class="press-item">
+  <p class="press-meta">
+    <span>Newspaper article</span>
+    <span aria-hidden="true">·</span>
+    <span>Il Manifesto</span>
+  </p>
+
+  <h2 class="press-title">
+    <a href="https://ilmanifesto.it/autofagia-e-ai-con-il-pilota-automatico"
+       target="_blank"
+       rel="noopener">
+      Autofagia e Ai con il «pilota automatico»
+    </a>
+  </h2>
+
+  <p class="press-byline">
+    By Andrea Capocci
+    <span aria-hidden="true">·</span>
+    <time datetime="2026-11-20">20 November 2026</time>
+  </p>
+
+  <p class="press-description">
+    Scientific article it refers to: 
+    <br/>Gambetta et al., <a href="https://dl.acm.org/doi/10.1145/3828663">Learning by Surprise: Adaptive Mitigation of Model Collapse in Large Language Models</a>, ACM Transactions on Intelligent Systems and Technologies (2026)
+  </p>
+</article>
+
 <article class="press-item">
   <p class="press-meta">
     <span>Podcast Interview</span>
