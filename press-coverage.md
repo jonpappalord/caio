@@ -12,7 +12,7 @@ description: Media coverage and public engagement from the CAIO project.
   </p>
 
   <h2 class="press-title">
-    <a href="https://github.com/jonpappalord/caio/blob/main/assets/audio/26_11_2026-smart-city_gambetta.mp3"
+    <a href="{{ '/assets/audio/26_11_2026-smart-city_gambetta.mp3' | relative_url }}"
        target="_blank"
        rel="noopener">
       Come evitare il collasso dell'IA, con Daniele Gambetta
@@ -25,10 +25,33 @@ description: Media coverage and public engagement from the CAIO project.
     <time datetime="2026-11-26">26 November 2026</time>
   </p>
 
+  {% include media-player.html
+     type="audio"
+     src="/assets/audio/26_11_2026-smart-city_gambetta.mp3"
+     title="Listen to the Radio 24 interview"
+  %}
+
   <p class="press-description">
     Scientific article it refers to: 
     <br/>Gambetta et al., <a href="https://dl.acm.org/doi/10.1145/3828663">Learning by Surprise: Adaptive Mitigation of Model Collapse in Large Language Models</a>, ACM Transactions on Intelligent Systems and Technologies (2026)
   </p>
+</article>
+
+<article class="press-item">
+  <p class="press-meta">
+    <span>TV report</span>
+    <span aria-hidden="true">·</span>
+    <span>TGR Leonardo</span>
+  </p>
+
+  <h2 class="press-title">AI autophagy and model collapse</h2>
+
+  {% include media-player.html
+     type="video"
+     src="/assets/video/tg_leonardo_autofagia_pappalardo.mp4"
+     poster="/assets/img/tg_leonardo_autofagia_pappalardo.jpg"
+     title="Watch the TGR Leonardo report on AI autophagy and model collapse"
+  %}
 </article>
 
 
@@ -108,11 +131,30 @@ description: Media coverage and public engagement from the CAIO project.
     <time datetime="2026-10-02">02 October 2026</time>
   </p>
 
+  {% include media-player.html
+     type="spotify"
+     id="1UPrTBNZ89a5NZkQSYnko2"
+     title="Listen to the Scienza e Società podcast interview"
+  %}
+
   <p class="press-description">
     Scientific article it refers to: 
     <br/>Cornacchia et al., <a href="https://www.nature.com/articles/s41467-026-75254-8">The traffic concentration effects of urban navigation services</a>, Nature Communications 17, 8548 (2026)
   </p>
 </article>
+
+<!--
+To embed a YouTube video in a future item, place this inside the relevant
+<article class="press-item"> and replace VIDEO_ID and the title:
+
+{% raw %}
+{% include media-player.html
+   type="youtube"
+   id="VIDEO_ID"
+   title="Accessible title describing the video"
+%}
+{% endraw %}
+-->
 
 <article class="press-item">
   <p class="press-meta">
