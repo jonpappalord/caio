@@ -6,6 +6,34 @@ description: Media coverage and public engagement from the CAIO project.
 
 <article class="press-item">
   <p class="press-meta">
+    <span>Radio Interview</span>
+    <span aria-hidden="true">·</span>
+    <span>Radio 24 - Smart City</span>
+  </p>
+
+  <h2 class="press-title">
+    <a href="https://github.com/jonpappalord/caio/blob/main/assets/audio/26_11_2026-smart-city_gambetta.mp3"
+       target="_blank"
+       rel="noopener">
+      Come evitare il collasso dell'IA, con Daniele Gambetta
+    </a>
+  </h2>
+
+  <p class="press-byline">
+    By Maurizio Melis
+    <span aria-hidden="true">·</span>
+    <time datetime="2026-11-26">26 November 2026</time>
+  </p>
+
+  <p class="press-description">
+    Scientific article it refers to: 
+    <br/>Gambetta et al., <a href="https://dl.acm.org/doi/10.1145/3828663">Learning by Surprise: Adaptive Mitigation of Model Collapse in Large Language Models</a>, ACM Transactions on Intelligent Systems and Technologies (2026)
+  </p>
+</article>
+
+
+<article class="press-item">
+  <p class="press-meta">
     <span>Podcast Interview</span>
     <span aria-hidden="true">·</span>
     <span>Scienza e Società</span>
