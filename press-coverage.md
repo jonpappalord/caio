@@ -34,6 +34,33 @@ description: Media coverage and public engagement from the CAIO project.
 
 <article class="press-item">
   <p class="press-meta">
+    <span>Newspaper article</span>
+    <span aria-hidden="true">·</span>
+    <span>Corriere della Sera</span>
+  </p>
+
+  <h2 class="press-title">
+    <a href="https://www.corriere.it/scuola/26_novembre_20/l-ai-rischia-l-autofagia-per-evitare-che-mangi-se-stessa-la-soluzione-e-sorprenderla-con-testi-scritti-da-noi-54cda1ea-7a94-4d0d-a1f7-a924ec3b7xlk.shtml"
+       target="_blank"
+       rel="noopener">
+      «L'AI rischia l'autofagia, per evitare che "mangi se stessa" la soluzione è sorprenderla con testi scritti da noi»
+    </a>
+  </h2>
+
+  <p class="press-byline">
+    By Marco Gasperetti
+    <span aria-hidden="true">·</span>
+    <time datetime="2026-11-26">26 November 2026</time>
+  </p>
+
+  <p class="press-description">
+    Scientific article it refers to: 
+    <br/>Gambetta et al., <a href="https://dl.acm.org/doi/10.1145/3828663">Learning by Surprise: Adaptive Mitigation of Model Collapse in Large Language Models</a>, ACM Transactions on Intelligent Systems and Technologies (2026)
+  </p>
+</article>
+
+<article class="press-item">
+  <p class="press-meta">
     <span>Podcast Interview</span>
     <span aria-hidden="true">·</span>
     <span>Scienza e Società</span>
