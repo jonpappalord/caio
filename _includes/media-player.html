@@ -1,0 +1,41 @@
+{% case include.type %}
+  {% when "audio" %}
+    <div class="press-media press-media--audio">
+      <audio controls preload="metadata" aria-label="{{ include.title | escape }}">
+        <source src="{{ include.src | relative_url }}" type="audio/mpeg">
+        Your browser does not support embedded audio.
+        <a href="{{ include.src | relative_url }}">Download the audio file</a>.
+      </audio>
+    </div>
+
+  {% when "video" %}
+    <div class="press-media press-media--video">
+      <video controls preload="metadata" playsinline{% if include.poster %} poster="{{ include.poster | relative_url }}"{% endif %} aria-label="{{ include.title | escape }}">
+        <source src="{{ include.src | relative_url }}" type="video/mp4">
+        Your browser does not support embedded video.
+        <a href="{{ include.src | relative_url }}">Download the video file</a>.
+      </video>
+    </div>
+
+  {% when "youtube" %}
+    <div class="press-media press-media--video">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/{{ include.id }}"
+        title="{{ include.title | escape }}"
+        loading="lazy"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+  {% when "spotify" %}
+    <div class="press-media press-media--spotify">
+      <iframe
+        src="https://open.spotify.com/embed/episode/{{ include.id }}"
+        title="{{ include.title | escape }}"
+        loading="lazy"
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+      </iframe>
+    </div>
+{% endcase %}
