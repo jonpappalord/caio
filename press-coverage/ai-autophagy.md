@@ -1,11 +1,10 @@
 ---
 layout: default
 title: AI autophagy
-permalink: /press-coverage/ai-autophagy/
 description: Media coverage of CAIO research on AI autophagy and model collapse.
 ---
 
-<p class="coverage-back"><a href="{{ '/press-coverage/' | relative_url }}">← All media coverage topics</a></p>
+<p class="coverage-back"><a href="{{ '/press-coverage.html' | relative_url }}">← All media coverage topics</a></p>
 
 <p class="coverage-topic-intro">
   Interviews, reports, and articles about model collapse, synthetic training

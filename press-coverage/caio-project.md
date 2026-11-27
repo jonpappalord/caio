@@ -1,11 +1,10 @@
 ---
 layout: default
 title: CAIO project
-permalink: /press-coverage/caio-project/
 description: Institutional and general media coverage of the CAIO project.
 ---
 
-<p class="coverage-back"><a href="{{ '/press-coverage/' | relative_url }}">← All media coverage topics</a></p>
+<p class="coverage-back"><a href="{{ '/press-coverage.html' | relative_url }}">← All media coverage topics</a></p>
 
 <p class="coverage-topic-intro">
   Institutional news and general coverage about CAIO, its funding, and the
