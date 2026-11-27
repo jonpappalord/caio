@@ -149,3 +149,26 @@ Google Scholar
   </div>
   </div>
 </section>
+
+## Collaborators
+
+<section class="profile team-profile">
+  <img src="{{ '/assets/img/margherita_lalli.jpg' | relative_url }}"
+       width="260"
+       height="260"
+       alt="Margherita Lalli">
+  <div>
+    <p class="eyebrow">Collaborator of the PI</p>
+    <h2>Margherita Lalli</h2>
+    <p class="role">Postdoctoral Researcher, Scuola Normale Superiore, Italy</p>
+    <p>Her research uses models and methods from statistical physics and network theory to understand how the interactions among heterogeneous individuals give rise to collective patterns at the meso- and macro-scale, with applications to network renormalization, innovation processes and the behaviour of users exposed to recommender systems. More recently, she has been combining explainable AI and network theory to uncover and interpret hidden patterns in machine-learning predictions, particularly in bioinformatics.
+</p>
+  <div class="profile-links">
+  <a class="profile-link" href="mailto:margherita.lalli@sns.it" aria-label="Email Margherita Lalli">
+<svg class="profile-link-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm9 7.1L20.2 7H3.8l8.2 5.1Zm0 2.35L3 8.85V17h18V8.85l-9 5.6Z"/></svg>
+margherita.lalli@sns.it
+</a>
+  </div>
+  </div>
+</section>
+
